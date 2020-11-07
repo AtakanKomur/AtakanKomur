@@ -23,5 +23,4 @@
 
 # Others
 [![GitHub followers](https://img.shields.io/github/followers/Chrinsieboy.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/AtakanKomur?tab=followers)<br>
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/AtakanKomur/)<br>
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/AtakanKomur/)
