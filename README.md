@@ -3,7 +3,7 @@
 # Something about me:
 - Name: **Atakan**
 - Age: **16**
-- Gender: **Boy**
+- Gender: **Male**
 
 # What do i do?
 - Coding for fun.
